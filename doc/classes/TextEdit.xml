@@ -720,7 +720,7 @@
 			<return type="String" />
 			<param index="0" name="position" type="Vector2" />
 			<description>
-				Returns the word at [param position].
+				Returns the word at the local [param position] in this [TextEdit].
 			</description>
 		</method>
 		<method name="get_word_under_caret" qualifiers="const">
